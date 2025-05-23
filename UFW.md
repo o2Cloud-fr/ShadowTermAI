@@ -1,0 +1,1 @@
+sudo ufw allow from IP_ADDRESS_MYSQL to any port 3306
