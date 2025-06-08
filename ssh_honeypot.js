@@ -111,10 +111,10 @@ const HoneypotConfig = {
   
   // Configuration MySQL
   DB: {
-    host: '109.234.165.186',
-    user: 'vofa2334_domain_honeypot_ssh',
-    password: 'mxvoDD-%c?i[J~d@Co',
-    database: 'vofa2334_domain_honeypot_ssh'
+    host: 'localhost',
+    user: 'domain_honeypot_ssh',
+    password: 'P@sswords@',
+    database: 'domain_honeypot_ssh'
   }
 };
 
